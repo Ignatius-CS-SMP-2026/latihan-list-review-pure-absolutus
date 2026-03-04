@@ -1,5 +1,5 @@
-# NAMA  : 
-# KELAS : 
+# NAMA  : Pure Absolutus
+# KELAS : IX
 # ---------------------------------------------------------
 # LATIHAN: REVIEW LIST PYTHON
 #Diberikan sebuah data acak nilai ujian siswa. Buatlah program yang mengurutkan data tersebut 
@@ -16,3 +16,4 @@
 # ---------------------------------------------------------
 
 # Tulis kodemu di bawah ini:
+print("berhasil")
